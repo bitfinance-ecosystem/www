@@ -1,1 +1,1 @@
-# CoindashCore
+# Coindash-Core
